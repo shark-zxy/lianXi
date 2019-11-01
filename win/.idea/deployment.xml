@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Ubuntu16.4">
+    <serverData>
+      <paths name="Ubuntu16.4">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/python/Desktop/server " local="$PROJECT_DIR$" web="/usr/bin/python3 " />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

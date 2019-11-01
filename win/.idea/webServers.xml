@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db784c98-00fc-4b4f-a071-2940f59462f5" name="Ubuntu16.4" url="http://192.168.1.106">
+        <fileTransfer host="192.168.1.106" port="22" rootFolder="/usr/bin/python3 " accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

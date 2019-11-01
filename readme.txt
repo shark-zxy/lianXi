@@ -9,3 +9,4 @@ VVVVV4.0
 
 VVVVV5.0
 
+WWWW6.0
